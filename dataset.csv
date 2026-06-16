@@ -1,0 +1,201 @@
+Id,Age  ,Gender  ,Occupation,Daily screen time (hours)  ,Most used social media app  ,How often do you check social media daily?  ,Social media usage mainly during  ,Average sleep duration (hours)  ,Do you feel distracted because of social media?,Study/Work hours per day  ,Productivity level (1-10)  ,Mood level (1-5)  ,How addicted do you feel to social media?  
+1,18,Female,Student,15,Instagram,Very Often,All Day,5,Yes,2,5,3,High
+2,18,Female,Student,4,Instagram,Often,Morning,8,Yes,3,8,3,Medium
+3,18,Female,Student,7,YouTube,Very Often,Afternoon,7,Yes,9,2,2,High
+4,18,Female,Student,3,Instagram,Rarely,Morning,7,Sometimes,4,5,1,Medium
+5,18,Female,Student,6,Snapchat,Almost Constantly,All Day,6,Yes,1,5,3,High
+6,18,Female,Student,3,YouTube,Rarely,Afternoon,8,Yes,5,7,3,Low
+7,39,Female,Working Professional,4,YouTube,Occasionally,Night,8,No,8,5,5,Medium
+8,14,Male,Student,4,Instagram,Very Often,Night,8,Sometimes,3,6,3,Medium
+9,18,Female,Student,4,Instagram,Often,All Day,7,No,2,7,3,High
+10,18,Female,Student,3,YouTube,Often,All Day,8,Sometimes,5,8,4,Medium
+11,18,Female,Student,2,Instagram,Often,Night,8,Yes,2,8,3,Medium
+12,41,Female,Working Professional,2,WhatsApp,Often,Night,8,Sometimes,8,8,4,Medium
+13,18,Female,Student,5,Snapchat,Often,All Day,10,Sometimes,2,6,4,Medium
+14,18,Female,Student,5,Instagram,Almost Constantly,All Day,6,Sometimes,2,7,4,Medium
+15,18,Female,Student,5,Snapchat,Occasionally,Afternoon,6,Sometimes,5,8,5,Medium
+16,20,Female,Student,12,YouTube,Often,Night,6,Yes,3,7,3,Medium
+17,17,Female,Student,12,YouTube,Very Often,Night,5,Yes,2,3,1,High
+18,18,Female,Student,4,Instagram,Almost Constantly,Afternoon,7,Yes,1,7,3,Medium
+19,18,Female,Student,8,YouTube,Occasionally,Afternoon,7,No,15,9,4,Medium
+20,20,Male,Student,12,Instagram,Often,Night,6,Sometimes,2,8,3,Medium
+21,26,Male,Working Professional,4,WhatsApp,Occasionally,Night,8,Yes,10,2,2,Medium
+22,18,Female,Student,3,Instagram,Occasionally,Night,6,Sometimes,3,8,4,Medium
+23,21,Male,Working Professional,8,Instagram,Almost Constantly,Night,8,Sometimes,9,8,4,Medium
+24,18,Female,Student,8,Instagram,Often,Afternoon,8,Yes,6,7,4,Medium
+25,18,Female,Student,18,YouTube,Almost Constantly,Night,5,Yes,1,8,4,High
+26,18,Female,Student,8,Snapchat,Very Often,Night,7,Yes,1,5,4,Medium
+27,18,Female,Student,4,Instagram,Almost Constantly,Night,7,Sometimes,3,3,3,Medium
+28,19,Female,Student,6,WhatsApp,Very Often,Night,9,Sometimes,5,8,5,Medium
+29,18,Female,Student,5,Snapchat,Often,Afternoon,8,Yes,3,5,4,Medium
+30,19,Female,Student,5,Instagram,Often,All Day,8,Yes,2,5,3,High
+31,18,Female,Student,7,Instagram,Very Often,Afternoon,7,Yes,1,5,3,Medium
+32,17,Female,Student,6,Netflix,Often,All Day,8,Sometimes,2,7,4,Low
+33,18,Female,Student,3,YouTube,Very Often,All Day,7,Yes,2,6,2,High
+34,18,Female,Both,24,Twitter,Occasionally,Afternoon,10,No,24,10,5,High
+35,18,Female,Student,5,Instagram,Rarely,All Day,6,Sometimes,4,6,3,Medium
+36,20,Female,Student,6,Instagram,Very Often,Night,7,Sometimes,5,7,4,Medium
+37,43,Female,Working Professional,2,YouTube,Occasionally,Night,7,No,10,8,5,Low
+38,18,Female,Student,5,Instagram,Often,Night,6,Sometimes,7,7,3,Low
+39,49,Male,Working Professional,1,YouTube,Occasionally,Afternoon,7,No,10,9,5,Low
+40,18,Female,Student,4,Instagram,Often,Afternoon,8,Yes,2,3,2,High
+41,19,Female,Student,3,Snapchat,Often,All Day,5,Sometimes,3,7,3,Medium
+42,16,Female,Student,2,WhatsApp,Occasionally,Night,6,Sometimes,4,7,3,Medium
+43,18,Female,Student,5,Instagram,Often,Afternoon,8,Yes,4,6,3,Medium
+44,18,Male,Student,5,Instagram,Almost Constantly,Night,7,Yes,1,7,3,Medium
+45,20,Male,Student,6,Instagram,Almost Constantly,All Day,7,Sometimes,5,5,3,Medium
+46,16,Female,Student,2,YouTube,Often,Night,8,Sometimes,3,3,3,Medium
+47,18,Female,Student,2,Instagram,Occasionally,Night,8,No,4,1,1,Low
+48,18,Female,Student,5,YouTube,Occasionally,Afternoon,8,Sometimes,6,8,3,Medium
+49,20,Female,Student,5,Snapchat,Rarely,Afternoon,8,Sometimes,3,6,2,Medium
+50,40,Female,Working Professional,1,YouTube,Rarely,Night,8,No,10,6,3,Low
+51,18,Female,Student,12,Instagram,Very Often,All Day,10,No,6,7,3,Medium
+52,18,Female,Student,5,Instagram,Often,All Day,7,Sometimes,3,5,4,Medium
+53,19,Female,Student,3,Instagram,Almost Constantly,All Day,8,Yes,1,10,5,High
+54,19,Female,Student,4,YouTube,Often,All Day,8,Yes,3,7,3,Medium
+55,18,Female,Student,5,Instagram,Often,Afternoon,8,No,4,8,3,Medium
+56,18,Female,Student,4,Instagram,Often,Afternoon,5,Yes,2,3,3,High
+57,18,Female,Student,4,Instagram,Often,Afternoon,8,Yes,5,7,3,Medium
+58,18,Female,Student,5,YouTube,Very Often,Afternoon,6,Yes,2,5,3,Medium
+59,20,Male,Student,2,WhatsApp,Rarely,Morning,6,Sometimes,2,5,3,Medium
+60,21,Female,Student,3,WhatsApp,Rarely,Afternoon,8,No,5,6,3,Low
+61,19,Female,Student,6,YouTube,Very Often,Afternoon,7,Yes,6,4,2,High
+62,18,Female,Student,6,YouTube,Often,Night,8,Sometimes,5,8,4,Medium
+63,18,Female,Student,6,Instagram,Often,Morning,6,Yes,6,5,4,Medium
+64,19,Female,Student,5,Instagram,Often,Night,7,No,5,8,4,Low
+65,18,Male,Student,5,Instagram,Often,Night,7,Yes,4,8,4,High
+66,24,Female,Student,4,YouTube,Occasionally,All Day,7,No,4,8,4,Medium
+67,31,Male,Working Professional,1,WhatsApp,Rarely,Night,8,No,9,8,3,Low
+68,15,Male,Student,4,Instagram,Often,Night,7,Yes,5,7,3,Medium
+69,42,Female,Working Professional,2,YouTube,Rarely,Night,7,No,8,8,4,Low
+70,27,Female,Student,3,YouTube,Often,Afternoon,8,Sometimes,4,7,3,Medium
+71,35,Male,Working Professional,2,WhatsApp,Very Often,Morning,7,No,8,8,4,Low
+72,19,Female,Student,5,Instagram,Rarely,All Day,8,No,6,6,3,Medium
+73,48,Male,Working Professional,2,YouTube,Occasionally,Afternoon,7,No,8,8,4,Low
+74,22,Female,Student,4,Snapchat,Often,All Day,8,No,5,7,3,Medium
+75,39,Male,Working Professional,2,WhatsApp,Almost Constantly,Morning,7,No,8,9,5,Low
+76,14,Male,Student,5,Instagram,Very Often,Afternoon,8,Yes,6,7,3,High
+77,45,Female,Working Professional,3,YouTube,Often,Night,7,No,8,9,5,Medium
+78,29,Male,Working Professional,3,Instagram,Rarely,Morning,7,No,7,8,4,Low
+79,33,Female,Working Professional,3,WhatsApp,Occasionally,Night,8,No,7,8,4,Low
+80,17,Female,Student,6,Instagram,Very Often,All Day,9,Yes,6,7,3,High
+81,50,Male,Working Professional,2,YouTube,Almost Constantly,Night,7,No,8,8,4,Low
+82,26,Male,Student,4,Instagram,Often,Morning,7,Sometimes,6,7,3,Medium
+83,41,Female,Working Professional,2,WhatsApp,Rarely,Night,7,No,8,8,4,Low
+84,20,Male,Student,5,Snapchat,Very Often,All Day,8,Yes,5,9,5,High
+85,36,Female,Working Professional,3,YouTube,Occasionally,Afternoon,7,No,8,7,3,Medium
+86,23,Female,Student,4,Instagram,Often,Morning,7,Sometimes,5,6,2,Medium
+87,47,Male,Working Professional,5,WhatsApp,Almost Constantly,Night,8,Yes,8,9,4,High
+88,16,Male,Student,3,YouTube,Rarely,Afternoon,9,Sometimes,5,7,3,Medium
+89,28,Female,Working Professional,4,Snapchat,Very Often,Night,7,Yes,7,8,4,High
+90,34,Male,Working Professional,2,Instagram,Often,Morning,7,Sometimes,8,7,3,Low
+91,21,Female,Student,5,Instagram,Occasionally,Night,8,Yes,6,7,3,High
+92,43,Male,Working Professional,2,WhatsApp,Rarely,Morning,7,No,9,8,5,Low
+93,30,Female,Working Professional,3,Instagram,Almost Constantly,Afternoon,7,Sometimes,8,8,4,Medium
+94,25,Female,Student,3,Snapchat,Often,All Day,8,Sometimes,5,7,3,Medium
+95,21,Male,Student,4,YouTube,Very Often,Night,8,Yes,5,6,2,High
+96,19,Male,Student,5,WhatsApp,Rarely,Morning,8,No,6,7,4,Medium
+97,38,Female,Working Professional,3,YouTube,Occasionally,Afternoon,7,Sometimes,5,8,4,Medium
+98,18,Male,Student,3,Instagram,Often,Night,8,Yes,4,6,3,Medium
+99,44,Female,Working Professional,1,WhatsApp,Almost Constantly,Afternoon,7,Yes,8,7,3,Low
+100,27,Male,Working Professional,3,Instagram,Very Often,Morning,8,Yes,8,6,3,High
+101,40,Male,Working Professional,1,WhatsApp,Often,Night,8,No,9,8,4,Low
+102,19,Female,Student,3,Instagram,Rarely,Afternoon,8,Sometimes,5,6,3,Medium
+103,35,Female,Working Professional,2,YouTube,Occasionally,Morning,7,No,7,7,3,Low
+104,24,Male,Student,3,Snapchat,Very Often,All Day,7,Sometimes,5,7,3,Medium
+105,46,Male,Working Professional,2,WhatsApp,Almost Constantly,Night,8,Sometimes,8,8,4,Low
+106,22,Female,Student,4,YouTube,Often,Afternoon,7,Yes,5,7,3,High
+107,31,Male,Working Professional,2,Instagram,Rarely,Morning,7,No,7,6,3,Low
+108,17,Female,Student,4,WhatsApp,Very Often,Night,8,Sometimes,5,7,3,High
+109,37,Male,Working Professional,2,WhatsApp,Occasionally,Afternoon,7,No,8,8,4,Low
+110,29,Female,Working Professional,2,YouTube,Often,Afternoon,7,Yes,7,7,3,Medium
+111,42,Male,Working Professional,3,WhatsApp,Almost Constantly,Morning,7,Yes,8,8,4,Medium
+112,20,Male,Student,5,YouTube,Rarely,Night,8,Yes,6,7,3,High
+113,33,Female,Working Professional,2,WhatsApp,Very Often,Afternoon,7,No,8,7,3,Low
+114,15,Male,Student,4,Instagram,Often,All Day,8,Yes,5,8,4,High
+115,28,Female,Working Professional,3,Snapchat,Occasionally,Morning,7,No,7,7,3,Medium
+116,41,Female,Working Professional,2,YouTube,Rarely,Night,7,No,8,8,4,Low
+117,23,Male,Student,3,Instagram,Almost Constantly,Morning,8,Sometimes,5,7,3,Medium
+118,36,Male,Working Professional,2,Instagram,Often,Afternoon,7,No,8,7,3,Low
+119,18,Female,Student,5,Instagram,Very Often,All Day,9,Yes,5,8,4,High
+120,45,Male,Working Professional,2,YouTube,Rarely,Night,7,Sometimes,9,9,5,Medium
+121,26,Female,Working Professional,3,Instagram,Occasionally,Morning,7,Sometimes,5,7,3,High
+122,39,Male,Working Professional,1,WhatsApp,Often,Afternoon,8,No,9,9,5,Low
+123,21,Female,Student,4,Instagram,Almost Constantly,Night,8,Yes,5,7,3,High
+124,18,Female,Student,5,Instagram,Very Often,All Day,8,Yes,6,8,4,High
+125,22,Male,Student,3,Instagram,Often,Morning,7,No,5,6,3,Low
+126,19,Male,Student,4,Instagram,Rarely,Night,8,Sometimes,5,7,3,Medium
+127,16,Female,Student,6,YouTube,Occasionally,Afternoon,8,Yes,7,8,4,High
+128,43,Male,Working Professional,2,WhatsApp,Very Often,Morning,7,No,8,8,4,Low
+129,25,Female,Student,3,Instagram,Almost Constantly,All Day,7,No,6,7,3,Low
+130,24,Male,Student,3,Snapchat,Often,Night,7,No,5,6,3,Low
+131,20,Male,Student,4,Instagram,Rarely,Afternoon,8,Sometimes,5,7,4,Medium
+132,17,Female,Student,6,YouTube,Very Often,Morning,8,Yes,7,7,3,High
+133,30,Female,Working Professional,2,YouTube,Occasionally,Night,7,No,8,8,4,Low
+134,15,Male,Student,5,YouTube,Often,All Day,8,Yes,6,8,4,High
+135,17,Male,Student,4,Instagram,Almost Constantly,Afternoon,8,Sometimes,5,6,3,Medium
+136,35,Female,Working Professional,1,WhatsApp,Rarely,Morning,6,No,8,9,5,Low
+137,22,Male,Student,3,Instagram,Very Often,Night,6,Sometimes,5,7,4,Medium
+138,23,Female,Student,3,Instagram,Often,Afternoon,7,No,5,8,4,Low
+139,35,Male,Working Professional,2,YouTube,Occasionally,Afternoon,8,No,8,8,4,Low
+140,24,Female,Student,4,Instagram,Rarely,Morning,7,Sometimes,6,7,3,Medium
+141,23,Male,Student,4,Snapchat,Almost Constantly,Night,7,Yes,5,7,4,High
+142,21,Male,Student,5,Instagram,Often,Morning,8,Yes,6,8,4,High
+143,18,Female,Student,6,Instagram,Very Often,Afternoon,8,Yes,7,6,3,High
+144,37,Male,Working Professional,2,YouTube,Rarely,Morning,7,No,8,7,3,Low
+145,20,Female,Student,4,Instagram,Occasionally,Night,8,Sometimes,5,6,3,Medium
+146,16,Female,Student,5,Snapchat,Often,Morning,8,Yes,6,7,3,High
+147,15,Male,Student,4,YouTube,Almost Constantly,Afternoon,8,Yes,5,8,4,High
+148,20,Male,Student,4,Instagram,Very Often,Night,8,Sometimes,5,7,3,Medium
+149,48,Female,Working Professional,2,WhatsApp,Often,Morning,7,No,8,9,4,Low
+150,25,Male,Student,3,Instagram,Rarely,Morning,7,Sometimes,5,7,3,Medium
+151,20,Female,Student,3,Snapchat,Occasionally,Night,7,Sometimes,4,6,3,Medium
+152,42,Male,Working Professional,1,YouTube,Very Often,Afternoon,7,Sometimes,9,8,4,Medium
+153,15,Female,Student,5,YouTube,Almost Constantly,Morning,8,Yes,5,7,3,High
+154,44,Female,Working Professional,2,YouTube,Often,Night,8,No,8,9,4,Low
+155,19,Male,Student,4,Instagram,Rarely,Night,7,No,5,6,3,Low
+156,21,Male,Student,4,Instagram,Very Often,Afternoon,7,Yes,5,5,2,High
+157,18,Female,Student,5,Snapchat,Occasionally,Morning,8,Yes,6,4,3,High
+158,22,Male,Student,4,Instagram,Often,Night,8,No,4,7,4,Low
+159,36,Female,Working Professional,3,WhatsApp,Almost Constantly,Morning,7,No,7,7,3,Low
+160,19,Male,Student,5,Instagram,Rarely,Afternoon,8,Yes,5,7,3,High
+161,22,Male,Student,3,Instagram,Very Often,Morning,8,Sometimes,5,8,4,Medium
+162,30,Female,Working Professional,2,WhatsApp,Often,Night,7,No,7,8,4,Low
+163,25,Female,Student,3,Instagram,Occasionally,Afternoon,7,No,5,7,3,Low
+164,15,Male,Student,6,YouTube,Rarely,All Day,9,Yes,8,7,3,High
+165,18,Male,Student,4,Instagram,Almost Constantly,Morning,8,Sometimes,6,8,4,Medium
+166,22,Female,Student,4,Instagram,Often,Night,7,Yes,5,8,4,High
+167,31,Male,Working Professional,2,YouTube,Very Often,Morning,8,No,7,8,4,Low
+168,15,Female,Student,5,WhatsApp,Rarely,Afternoon,8,Yes,7,8,4,High
+169,14,Male,Student,6,YouTube,Occasionally,All Day,9,Yes,6,7,3,High
+170,29,Female,Working Professional,3,Instagram,Often,Night,7,Sometimes,7,8,4,Medium
+171,19,Male,Student,5,WhatsApp,Almost Constantly,Morning,8,Yes,6,6,2,High
+172,36,Male,Working Professional,2,WhatsApp,Very Often,Afternoon,8,No,8,7,4,Low
+173,17,Female,Student,5,Instagram,Often,Night,7,Sometimes,7,7,4,Medium
+174,22,Male,Student,4,Instagram,Rarely,Afternoon,7,No,6,8,4,Low
+175,39,Female,Working Professional,3,YouTube,Occasionally,Morning,8,Sometimes,7,8,4,Medium
+176,14,Female,Student,6,YouTube,Very Often,Night,9,Yes,6,5,3,High
+177,15,Male,Student,5,YouTube,Almost Constantly,Afternoon,9,Yes,7,6,3,High
+178,29,Male,Working Professional,3,YouTube,Often,Morning,8,Sometimes,7,7,4,Medium
+179,22,Female,Student,4,Instagram,Rarely,Morning,7,No,5,8,4,Low
+180,45,Male,Working Professional,2,WhatsApp,Very Often,Night,7,No,8,9,5,Low
+181,19,Female,Student,4,Instagram,Occasionally,Afternoon,7,Yes,6,8,4,High
+182,22,Male,Student,3,Instagram,Often,Morning,8,Sometimes,5,7,3,Medium
+183,14,Female,Student,5,YouTube,Almost Constantly,Night,8,Yes,8,6,3,High
+184,20,Female,Student,4,Instagram,Rarely,Afternoon,8,Yes,5,7,3,High
+185,36,Male,Working Professional,2,YouTube,Very Often,Afternoon,7,No,8,6,2,Low
+186,23,Male,Student,3,Instagram,Often,Morning,8,Sometimes,5,7,3,Medium
+187,16,Female,Student,3,YouTube,Occasionally,Night,9,No,7,7,3,Low
+188,39,Male,Working Professional,1,YouTube,Rarely,Afternoon,7,No,8,8,4,Low
+189,21,Female,Student,4,Instagram,Almost Constantly,Afternoon,7,Yes,5,6,3,High
+190,17,Male,Student,5,Instagram,Often,Morning,8,Yes,6,6,3,High
+191,21,Male,Student,4,Instagram,Very Often,Night,7,Yes,5,7,3,High
+192,20,Female,Student,4,Instagram,Rarely,Morning,7,No,6,8,4,Low
+193,30,Female,Working Professional,2,YouTube,Occasionally,Afternoon,7,No,8,9,4,Low
+194,25,Male,Student,3,Instagram,Often,Night,7,Sometimes,5,7,3,Medium
+195,19,Male,Student,4,Instagram,Almost Constantly,Night,8,Yes,5,7,3,High
+196,32,Female,Working Professional,2,YouTube,Very Often,Morning,6,Sometimes,7,9,4,Medium
+197,18,Male,Student,5,Instagram,Often,Night,7,Yes,6,6,3,High
+198,18,Female,Student,6,Instagram,Rarely,Afternoon,7,Yes,7,8,4,High
+199,44,Male,Working Professional,1,YouTube,Occasionally,Night,7,No,8,9,4,Low
+200,22,Female,Student,4,Instagram,Very Often,Morning,8,Sometimes,5,7,3,Medium
